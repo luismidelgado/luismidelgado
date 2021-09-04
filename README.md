@@ -5,8 +5,10 @@
      alt="Traveling to new experiences"
      style="float: left; margin-right: 10px;" /></p>
 
-<p align='center'>science & technology studies | digital humanities <br>👨🏻‍💻 <a href="https://kacharreando.com">Kacharreando.com</a> 🙇🏻‍♂️ <a href="https://twitter.com/moritzmaehr">twitter</a>:scroll:🏻<a href="https://luismidelgado.notion.site/Hi-I-m-LuisMi-00464c3720e34b3cb2217c3aad34bf74">My CV<a><br>Some of them suck, my <a href="https://luismidelgado.notion.site/Business-ideas-0a9cd573bec141abaf1551bb5f3a7d27">Business Ideas</a></p>
+<p align='center'>science & technology studies | digital humanities <br>👨🏻‍💻 <a href="https://kacharreando.com">Kacharreando.com</a> 🙇🏻‍♂️ <a href="https://twitter.com/moritzmaehr">twitter</a> 📜 <a href="https://luismidelgado.notion.site/Hi-I-m-LuisMi-00464c3720e34b3cb2217c3aad34bf74">My CV<a><br>Some of them suck, my <a href="https://luismidelgado.notion.site/Business-ideas-0a9cd573bec141abaf1551bb5f3a7d27">Business Ideas</a></p>
 
+     📜
+     
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
