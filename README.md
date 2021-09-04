@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @luismidelgado
+<h1 align="center">Hi 👋, I'm LuisMi</h1>
+<h3 align="center">Passionate about building things and my starship Enterprise is in Gandía (Spain).
+</h3>
+![cara-luismi](https://user-images.githubusercontent.com/2465189/132078229-ea0a5f22-1a3c-4a15-884d-42d4d5c7df56.jpg)
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
