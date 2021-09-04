@@ -5,7 +5,7 @@
      alt="Traveling to new experiences"
      style="float: left; margin-right: 10px;" /></p>
 
-<p align='center'>science & technology studies | digital humanities | history of computing<br>👨🏻‍💻 <a href="https://moritzmaehr.ch/">moritzmaehr.ch</a> 🙇🏻‍♂️ <a href="https://twitter.com/moritzmaehr">twitter</a> 🧜🏻‍♂️ <a href="https://pronoun.is/he">he/him</a></p>
+<p align='center'>science & technology studies | digital humanities | history of computing<br>👨🏻‍💻 <a href="https://kacharreando.com">Kacharreando.com</a> 🙇🏻‍♂️ <a href="https://twitter.com/moritzmaehr">twitter</a> 🧜🏻‍♂️ <a href="https://tunegocioenlanube.net">he/him</a></p>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
