@@ -5,7 +5,7 @@
      alt="Traveling to new experiences"
      style="float: left; margin-right: 10px;" /></p>
 
-<p align='center'>technology studies | marketing online and seo <br>👨🏻‍💻 [Kacharreando.com](https://kacharreando.com) 📜 <a href="https://luismidelgado.notion.site/Hi-I-m-LuisMi-00464c3720e34b3cb2217c3aad34bf74">My CV<a><br>Some of them suck, my <a href="https://luismidelgado.notion.site/Business-ideas-0a9cd573bec141abaf1551bb5f3a7d27">Business Ideas</a></p>
+<p align='center'>technology studies | marketing online and seo <br>👨🏻‍💻 <a href="https://kacharreando.com/">Kacharreando.com</a> 📜 <a href="https://luismidelgado.notion.site/Hi-I-m-LuisMi-00464c3720e34b3cb2217c3aad34bf74">My CV</a><br>Some of them suck, my <a href="https://luismidelgado.notion.site/Business-ideas-0a9cd573bec141abaf1551bb5f3a7d27">Business Ideas</a></p>
 
 > Before you build a better mousetrap, it helps to know if there are any mice out there. —Yogi Berra
 
